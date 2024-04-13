@@ -1,7 +1,7 @@
 # Churn-Analysis-
 The work uses Hopsworks for Feature store and creating Feature groups for Machine learning modeling using the Google Colab platform 
 
-## Loading the data and feature Engineering 
+## Loading the data and feature Engineering  Part 1
 ![Imgur](https://imgur.com/bAbElk1.jpg)
 
 - Install packages
@@ -31,3 +31,7 @@ The work uses Hopsworks for Feature store and creating Feature groups for Machin
 - Load the training data.
 - Train the model.
 - Explore feature groups and views via the UI.
+
+
+## Part 3 Batch Inference
+
