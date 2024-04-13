@@ -12,6 +12,8 @@ The work uses Hopsworks for Feature store and creating Feature groups for Machin
   * Read demography data
   * Read customer info data
   * Read Subscriptions data
+- Feature Engineering
+  In this section you will perform feature engineering, such as converting textual features to numerical features and replacing missing values to 0s
 
 
 ![Imgur](https://imgur.com/jE9KN4e.jpg)
